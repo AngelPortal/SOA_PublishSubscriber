@@ -1,0 +1,8 @@
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\obj\Debug\ArticlePublisherApp.Form1.resources
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\obj\Debug\ArticlePublisherApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\bin\Debug\ArticlePublisherApp.exe.config
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\bin\Debug\ArticlePublisherApp.exe
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\bin\Debug\ArticlePublisherApp.pdb
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\obj\Debug\ArticlePublisherApp.exe
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\ArticlePublisherApp\obj\Debug\ArticlePublisherApp.pdb

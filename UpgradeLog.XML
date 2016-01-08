@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Publisher_Subscriber_Solution">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\SOA_PublisherSubscriber\Publisher_Subscriber_Solution.sln">
+</Property><Property Name="Date" Value="sexta-feira, 8 de janeiro de 2016">
+</Property><Property Name="Time" Value="10:07">
+</Property></Properties><Event ErrorLevel="0" Project="ClientSubscriptionApp" Source="ClientSubscriptionApp\ClientSubscriptionApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClientSubscriptionApp" Source="ClientSubscriptionApp\ClientSubscriptionApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ArticlePublisherApp" Source="ArticlePublisherApp\ArticlePublisherApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ArticlePublisherApp" Source="ArticlePublisherApp\ArticlePublisherApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Publisher_Subscriber_Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Publisher_Subscriber_Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClientSubscriptionApp" Source="ClientSubscriptionApp\ClientSubscriptionApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ArticlePublisherApp" Source="ArticlePublisherApp\ArticlePublisherApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

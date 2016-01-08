@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSubscriptionApp", "ClientSubscriptionApp\ClientSubscriptionApp.csproj", "{D40B163A-D309-40F9-8987-801052179D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticlePublisherApp", "ArticlePublisherApp\ArticlePublisherApp.csproj", "{307D7081-2E7D-456E-A7F7-4970E0DEAD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40B163A-D309-40F9-8987-801052179D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B163A-D309-40F9-8987-801052179D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B163A-D309-40F9-8987-801052179D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B163A-D309-40F9-8987-801052179D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307D7081-2E7D-456E-A7F7-4970E0DEAD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307D7081-2E7D-456E-A7F7-4970E0DEAD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307D7081-2E7D-456E-A7F7-4970E0DEAD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307D7081-2E7D-456E-A7F7-4970E0DEAD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
